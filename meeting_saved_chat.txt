@@ -1,0 +1,78 @@
+09:31:47 From Alexander Goranski To Everyone:
+	+
+09:32:02 From Anthony Bonetta To Everyone:
+	+
+09:32:02 From Жанна Осипенко To Everyone:
+	+
+09:32:02 From Anton Cheprasov To Everyone:
+	+
+09:32:02 From Alesya Kravchenko To Everyone:
+	+
+09:32:02 From Marina Melnikova To Everyone:
+	+
+09:32:04 From Maria Marz To Everyone:
+	+
+09:32:49 From Anthony Bonetta To Everyone:
+	У меня есть вопросик а можно ли в базе отключить ветку ?
+09:33:00 From Anthony Bonetta To Everyone:
+	если она замыкающее звено
+09:35:07 From Anthony Bonetta To Everyone:
+	Просто база у нас делается через гениратор
+09:35:20 From Anthony Bonetta To Everyone:
+	а не напрямую
+09:36:03 From Anthony Bonetta To Everyone:
+	+
+09:43:39 From Anthony Bonetta To Everyone:
+	+
+09:46:59 From Anthony Bonetta To Everyone:
+	1 и 2
+09:48:08 From Anthony Bonetta To Everyone:
+	2
+09:48:11 From Anthony Bonetta To Everyone:
+	от 1
+09:51:20 From Starta Institute 8 To Everyone:
+	поднимите руку если есть еще желающие обратную задачу решить
+10:06:52 From Anthony Bonetta To Everyone:
+	я бе сделал многие ко многим
+10:17:11 From Anthony Bonetta To Everyone:
+	а я такое видел
+10:23:49 From Anthony Bonetta To Everyone:
+	отправте пожалуйста ссылку на данную песочницу
+10:25:55 From Starta Institute 8 To Everyone:
+	https://dbdiagram.io/d/
+10:39:42 From Alexander Goranski To Everyone:
+	created_at timestamp
+10:45:20 From Anthony Bonetta To Everyone:
+	qr подключение
+10:50:08 From Alexander Goranski To Everyone:
+	cgjc
+10:50:11 From Andrej To Everyone:
+	Reacted to "cgjc" with 🔥
+11:06:42 From Alexander Goranski To Starta Institute 8(Privately):
+	https://dbdiagram.io/d/64d49fa402bd1c4a5e8d5b90
+11:06:45 From Starta Institute 8 To Alexander Goranski(Privately):
+	Перерыв до 22 мин
+11:22:39 From Anthony Bonetta To Everyone:
+	+
+11:22:41 From Marina Melnikova To Everyone:
+	+
+11:22:45 From Жанна Осипенко To Everyone:
+	+
+11:22:49 From Alexander Goranski To Everyone:
+	+
+11:23:14 From Anton Cheprasov To Everyone:
+	+
+11:25:04 From Anthony Bonetta To Everyone:
+	bool
+11:25:05 From Alexander Goranski To Everyone:
+	bool
+11:40:22 From Anthony Bonetta To Everyone:
+	мою посмотрите
+12:03:57 From Starta Institute 8 To Everyone:
+	https://dbdiagram.io/d/64d4b23002bd1c4a5e8ec73c
+12:10:37 From Anthony Bonetta To Everyone:
+	git push
+12:11:47 From Starta Institute 8 To Everyone:
+	https://western-appeal-39b.notion.site/GenTech-9-Aug-10-2023-c061a4ada4af4de78e43497ad73f3e01?pvs=4
+12:12:05 From Starta Institute 8 To Everyone:
+	https://western-appeal-39b.notion.site/GenTech-280223-m-fe-m-qa-b480e48a6e724c68a2b8ce4f977cd077?pvs=4
