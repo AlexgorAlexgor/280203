@@ -1,1 +1,2 @@
-SELECT count(*) FROM [Customers];
+SELECT count(*) FROM Customers
+Group by Country
