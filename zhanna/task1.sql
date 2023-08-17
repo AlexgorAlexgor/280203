@@ -5,3 +5,4 @@ FROM Customers
 GROUP BY country
 ORDER BY customer_count DESC
 
+
