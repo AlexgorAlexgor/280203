@@ -25,3 +25,32 @@ Austria	2
 Poland	1
 Norway	1
 Ireland	1 */
+
+/* **Задача. Вывести данные о клиенте, который находится на втором месте по ко-ву заказов**
+
+(проекция: `имя_клиента`, `ко_во_заказов`) */
+SELECT  CustomerID, CustomerName, count(CustomerID) as total_orders
+FROM Customers join  orders using (CustomerID)
+group by CustomerID
+--having CustomerID is 87
+order by total_orders desc
+limit 3 offset 1
+/* Result:
+Number of Records: 1
+CustomerID	CustomerName	total_orders
+87	Wartian Herkku	7
+65	Rattlesnake Canyon Grocery	7
+63	QUICK-Stop	7 */
+
+/* **Лимитирование вывода / Оператор `LIMIT`**
+
+- позволяет ограничить вывод строк
+- `LIMIT` вывести только указанное ко-во строк
+- `OFFSET` смещение на указанное ко-во строк
+limit = 5 */
+
+limit = 5
+page = 1
+offset = limit * (page - 1)
+offset = limit * page - limit
+
