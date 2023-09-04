@@ -1,4 +1,4 @@
--- Task4. Создать таблицу comments
+-- Task4. Создать таблицу comments, где будут храниться комментарии к видео
 
 CREATE TABLE IF NOT EXISTS comments (
 	comment_id int primary key auto_increment,
