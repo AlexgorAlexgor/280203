@@ -1,0 +1,16 @@
+  195  git push -u origin alexgor/SQL_lesson_083123.sql
+  196  git push -u origin alexgor/SQL_lesson_083123
+  197  git commit -m 'task 2'
+  198  git push -u origin alexgor/SQL_lesson_083123.sql
+  199  git push -u origin alexgor/SQL_lesson_083123
+  200  git add .
+  201  git commit -m 'task 2'
+  202  git push -u origin alexgor/
+  203  git push -u origin alexgor .
+  204  git push -u origin alexgor/SQL_lesson_083123
+  205  git push -u origin alexgor/SQL_lesson_083123.sql
+  206  git checkout -b alexgor/task2 main
+  207  git add .
+  208  git checkout -b alexgor/task2 main
+  209  git push -u origin alexgor/task2
+  210  history
